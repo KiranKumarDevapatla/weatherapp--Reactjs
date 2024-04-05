@@ -2,6 +2,7 @@
 
 This is a weather application built with React. It uses the OpenWeatherMap API to fetch weather data.
 
+![image](https://github.com/KiranKumarDevapatla/weatherapp--Reactjs/assets/93006743/5fca3f05-1270-4564-9672-e2408ca6862f)
 
 
 ## Features
