@@ -1,6 +1,6 @@
-# Weather App
+# Vathavarnapp
 
-This is a simple weather application built with React. It uses the OpenWeatherMap API to fetch weather data.
+This is a weather application built with React. It uses the OpenWeatherMap API to fetch weather data.
 
 
 
